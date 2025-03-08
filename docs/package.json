@@ -76,7 +76,7 @@
     "mini-svg-data-uri": "^1.4.4",
     "motion": "^10.18.0",
     "next": "^15.2.0",
-    "next-themes": "^0.3.0",
+    "next-themes": "^0.2.1",
     "prettier": "^3.4.2",
     "prism-react-renderer": "^2.4.0",
     "react": "^18.3.1",
